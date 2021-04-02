@@ -22,6 +22,7 @@ If you have any suggestion for topics please do not hesitate to create an [issue
 - user perception of loading time
   -  Optimistic updates
   -  correct loading indicators
+  -  application shell
 - tools
 - monitoring of router change state
 - what can be faster?
@@ -29,7 +30,8 @@ If you have any suggestion for topics please do not hesitate to create an [issue
 ## Network performance
 - hosting optimisation
 - bundle size
-- Minification
+- Tree-shaking
+- Tree-shakeable providers
 - router lazy loading and preloading strategies
 - SSR: Universal & Scully
 - Service Workers: offline mode, cache content, cache http calls
@@ -39,6 +41,7 @@ If you have any suggestion for topics please do not hesitate to create an [issue
 - Understanding Zonejs
   - runOutsideAngular
   - life without ngZone
+  - Coalescing event change detections ` { ngZoneEventCoalescing: true }`
 - Change Detection: onPush, markForCheck, detach/reattach
 - pure pipes and  memorize
 - big lists optimisation: Trackby and VirtualScroll
