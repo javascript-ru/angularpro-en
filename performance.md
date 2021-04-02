@@ -1,6 +1,7 @@
 # Angular Performance Tuning
 
-![personaje-main-flash](https://user-images.githubusercontent.com/1526680/113391743-4a8b0600-9394-11eb-8f88-b45d480a320d.png)
+![personaje-main-flash](https://user-images.githubusercontent.com/1526680/113393618-3399e300-9397-11eb-9ac6-35dcac60abc3.png)
+
 
 # How
 
